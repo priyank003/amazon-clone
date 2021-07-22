@@ -1,4 +1,3 @@
-https://clone-july21.web.app/ link of my project
 
 
 # Getting Started with Create React App
