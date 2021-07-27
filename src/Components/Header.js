@@ -26,7 +26,7 @@ const Header = ({ cartItems, user, signOut }) => {
       <HeaderLogo>
         <Link to="/">
           <img
-            src="https://firebasestorage.googleapis.com/v0/b/clone-july21.appspot.com/o/1280px-Amazon_logo.svg.png?alt=media&token=52bfb1bf-e013-4f6a-8613-4cab0d8f3c28"
+            src="https://github.com/priyank003/amazon-clone/blob/master/1280px-Amazon_logo.svg.png?raw=true"
             alt=""
           />
         </Link>
