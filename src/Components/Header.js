@@ -26,7 +26,7 @@ const Header = ({ cartItems, user, signOut }) => {
       <HeaderLogo>
         <Link to="/">
           <img
-            src="https://github.com/priyank003/amazon-clone/blob/master/1280px-Amazon_logo.svg.png?raw=true"
+            src="https://github.com/priyank003/amazon-clone/blob/master/amazon_PNG11.png"
             alt=""
           />
         </Link>
