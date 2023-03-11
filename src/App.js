@@ -37,6 +37,7 @@ function App() {
   }, []);
 
   console.log("user", user);
+  console.log("hitesh is here")
   return (
     <Router>
       {!user ? (
